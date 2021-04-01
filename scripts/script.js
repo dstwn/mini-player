@@ -18,7 +18,7 @@ new Vue({
           favorited: true
         },
         {
-          name: "Everybody Santuy v1",
+          name: "Lo-Fi Santuy v1",
           artist: "Leonard Cohen",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
           source: "https://cdn.infiniteuny.id/music/Lofi%20indonesia%20album%20cover%202020%20-%20Lo-Fi%20Indonesia%20-%20lagu%20enak%20didengar%20untuk%20menemani%20waktu%20santai.mp3",
@@ -26,9 +26,9 @@ new Vue({
           favorited: true
         },
           {
-          name: "Everybody Santuy v2",
+          name: "Lo-Fi Santuy v2",
           artist: "Leonard Cohen",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/3.jpg",
           source: "https://cdn.infiniteuny.id/music/lofi%20indonesia%20album%20cover%202020%20-Lo-Fi%20Indonesia%20-%20%20lagu%20enak%20didengar%20untuk%20menemani%20waktu%20santai.m4a",
           url: "#",
           favorited: true
